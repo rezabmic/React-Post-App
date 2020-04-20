@@ -1,0 +1,14 @@
+{
+  "name": "post-service",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Post REST service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Michal Rezabek",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
